@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "Chivo";
+    src: url("../../fonts/Chivo-Regular.ttf");
+}
+* {
+    font-family: Chivo;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23.8px; 
+}
+.DogCard {
+    display: flex;
+    justify-content: space-around;
+    height: 399.76px;
+    background: #E9E9E9;
+    box-shadow: 0px 4px 4px 0px #00000040;
+    width: 90%;
+    margin-left: 5%;
+}

@@ -1,0 +1,9 @@
+.TopImages img {
+    width: 437px;
+    height: 419px;
+}
+.TopImages {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 50px;
+}

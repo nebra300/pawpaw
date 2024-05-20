@@ -1,0 +1,10 @@
+.banner-wrapper{
+    width: 1100px;
+    height: 391px;
+    background-image: url('../../images/tlo.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    opacity: 80%;
+
+}

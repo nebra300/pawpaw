@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "Chivo";
+    src: url("../../fonts/Chivo-Regular.ttf");
+}
+.item {
+    font-family: Chivo;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23.8px; 
+}

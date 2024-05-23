@@ -1,16 +1,12 @@
 .puppy-comment-wrapper{
-
-
-
     background-color: rgb(255, 255, 255, 0.6);  
     width: 387px;
     align-items: center;        
     display: flex;
     border-radius: 4px;
     gap: 15px;
-    padding: 5px;    
-
-
+    padding: 5px;
+    margin: 15px;
 }
 .puppy-comment-title{
     font-size: 16px;
@@ -19,12 +15,12 @@
 }
 
 .puppy-comment-paragraph{
-font-size: 12px;
-font-weight: 200;
-text-align: center;
+    font-size: 12px;
+    font-weight: 200;
+    text-align: center;
 
-width: 90%;
-align-self: center;
+    width: 90%;
+    align-self: center;
 }
 .puppy-comment-name{
 font-size: 16px;
@@ -33,18 +29,17 @@ align-self: center;
 }
 
 
-
 .puppy-comment-text-wrapper{
-margin-top: 15px;
+    margin-top: 15px;
     display: flex;
     flex-direction: column;
     gap: 10px;
     width: 60%;
-   
 }
-.puppy-comment-images{
-border-radius: 50%;
-height: 120px;
-width: 120px;
 
+.puppy-comment-images{
+    border-radius: 50%;
+    height: 120px;
+    width: 120px;
 }
+

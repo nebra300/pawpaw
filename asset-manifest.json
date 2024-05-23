@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/pawpaw/static/css/main.a87ae98e.css",
+    "main.js": "/pawpaw/static/js/main.bbacbea6.js",
+    "static/js/453.e619eb3c.chunk.js": "/pawpaw/static/js/453.e619eb3c.chunk.js",
+    "static/media/doghuman.png": "/pawpaw/static/media/doghuman.26c10881f03bfb466b60.png",
+    "static/media/doggybag.png": "/pawpaw/static/media/doggybag.7377057192a9ad688eff.png",
+    "static/media/tlo.jpg": "/pawpaw/static/media/tlo.579bac4d024f5a812c29.jpg",
+    "static/media/Chivo-Regular.ttf": "/pawpaw/static/media/Chivo-Regular.4a20db978e653e11e640.ttf",
+    "static/media/doggy2.png": "/pawpaw/static/media/doggy2.07c5c6602eabe54b5af0.png",
+    "static/media/doggy1.png": "/pawpaw/static/media/doggy1.2b9d5c1dafbe482297d2.png",
+    "static/media/doggy4.png": "/pawpaw/static/media/doggy4.39cc8066de005ca6717b.png",
+    "static/media/doggy3.png": "/pawpaw/static/media/doggy3.97334311fa0dd2ab023d.png",
+    "static/media/Logo.png": "/pawpaw/static/media/Logo.1fe3c52826b54590a20e.png",
+    "index.html": "/pawpaw/index.html",
+    "main.a87ae98e.css.map": "/pawpaw/static/css/main.a87ae98e.css.map",
+    "main.bbacbea6.js.map": "/pawpaw/static/js/main.bbacbea6.js.map",
+    "453.e619eb3c.chunk.js.map": "/pawpaw/static/js/453.e619eb3c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a87ae98e.css",
+    "static/js/main.bbacbea6.js"
+  ]
+}
